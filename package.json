@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^5.0.1",
+    "mocha": "^5.2.0"
+  }
+}
